@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d273b08b-8650-4213-8e30-a5a9fbdb7172" name="Changes" comment="Model commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kr/excel/resume/ResumeView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/kr/excel/resume/ResumeView.java" afterDir="false" />
-    </list>
+    <list default="true" id="d273b08b-8650-4213-8e30-a5a9fbdb7172" name="Changes" comment="View commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,20 +18,25 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Song-Seung-Hyeon"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Song-Seung-Hyeon&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Song-Seung-Hyeon/MiniProj_Excel_Resume.git",
-    "accountId": "e79a9dce-23f3-4fc3-ac92-80869183049b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Song-Seung-Hyeon/MiniProj_Excel_Resume.git&quot;,
+    &quot;accountId&quot;: &quot;e79a9dce-23f3-4fc3-ac92-80869183049b&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2fXNDj8F4WxtTOwjVk0UekSF8jU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,17 +44,64 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ResumeController.executor": "Run",
+    "Application.Run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/user/Desktop/Project/JavaProject04",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\Project\JavaProject04" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ResumeController">
+    <configuration name="ResumeController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.excel.resume.ResumeController" />
+      <module name="JavaProject04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.excel.resume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kr.excel.resume.Run" />
+      <module name="JavaProject04" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kr.excel.resume.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ResumeController" />
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,7 +118,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713343896951</updated>
-      <workItem from="1713343898104" duration="6834000" />
+      <workItem from="1713343898104" duration="12037000" />
+      <workItem from="1713943352334" duration="34000" />
+      <workItem from="1713943413602" duration="150000" />
+      <workItem from="1713943592724" duration="256000" />
+      <workItem from="1713943866961" duration="35000" />
+      <workItem from="1713943928800" duration="60000" />
+      <workItem from="1713944034127" duration="71000" />
+      <workItem from="1713944142905" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="Model commit">
       <option name="closed" value="true" />
@@ -87,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713425186705</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="View commit">
+      <option name="closed" value="true" />
+      <created>1713430186331</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713430186331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +159,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Model commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Model commit" />
+    <MESSAGE value="View commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="View commit" />
   </component>
 </project>
